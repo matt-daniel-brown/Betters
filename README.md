@@ -1,6 +1,6 @@
 # Betters
 
-This is Betters. My personalized version of [Thoughtbot](https://thoughtbot.io)'s  [Bitters scaffolding tool](https://github.com/thoughtbot/bitters).
+This is Betters. My personalized version of [Thoughtbot](https://thoughtbot.com)'s  [Bitters scaffolding tool](https://github.com/thoughtbot/bitters).
 
 
 ## Installation
