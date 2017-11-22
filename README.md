@@ -22,7 +22,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To install Betters stylesheets in `{current/directory}/base`, run:
+
+    $ betters install
+    
+To uninstall/remove Betters stylesheets
+
+    $ betters remove
+    
+To reset/revert changes made to the stylesheets
+
+    $ betters reset
 
 ## Development
 
@@ -32,4 +42,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/betters.
+Bug reports and pull requests are welcome on GitHub at https://github.com/matt-daniel-brown/betters.
