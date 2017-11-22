@@ -77,7 +77,7 @@ module Betters
     end
 
     def top_level_directory
-      File.dirname(File.dirname(File.dirname(__FILE__)))
+      File.dirname(File.dirname(__FILE__))
     end
     
   end
