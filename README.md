@@ -1,5 +1,7 @@
 # Betters
 
+[![Gem Version](https://badge.fury.io/rb/betters.svg)](https://badge.fury.io/rb/betters)
+
 This is Betters. My personalized version of [Thoughtbot](https://thoughtbot.com)'s  [Bitters scaffolding tool](https://github.com/thoughtbot/bitters).
 
 
