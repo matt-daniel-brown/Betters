@@ -17,7 +17,7 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
+Or, to use it in a fashion more similar to it's intended purpose, install it as:
 
     $ gem install betters
 
